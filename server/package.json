@@ -1,7 +1,7 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "",
+    "description": "Take notes with JavaScript sybtax highlighting",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
