@@ -9,7 +9,7 @@
 + [Overview](#overview)
 + [Installation](#installation)
 + [Usage](#usage)
-+ [Demo](#demo)
++ [Mock-Up](#mock-up)
 + [Contributing](#contributing)
 + [License](#license)
 + [Questions](#questions)
