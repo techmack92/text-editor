@@ -15,10 +15,11 @@
 + [Questions](#questions)
 
 ## Overview
+[Live Site is Here](https://text-editor-pg3o.onrender.com/)<br>
 This is a single-page text editor web application that:<br>
 + meets PWA (Progressive Web Application) criteria,<br>
 + utilizes multiple data persistence techniques for redundancy,<br>
-+ & functions offline.
++ & functions offline<br>
 
 ## Installation
 ***Install these programs on your computer:***
@@ -38,11 +39,26 @@ This is a single-page text editor web application that:<br>
     - Click *"Install"* at the top left of browser to install the PWA
 
 ## Mock-Up
+### Home page<br>
 <div>
-    <a href="./assets/19-pwa-homework-demo-01.gif">
-      <img style="max-width:800px;" src="./assets/19-pwa-homework-demo-01.gif">
+    <a href="./assets/Screenshot 2024-02-19 122405.png">
+      <img style="max-width:800px;" src="./assets/Screenshot 2024-02-19 122405.png">
     </a>
-  </div>
+</div>
+
+### Install prompt<br>
+<div>
+    <a href="./assets/Screenshot 2024-02-19 124334.png">
+      <img style="max-width:800px;" src="./assets/Screenshot 2024-02-19 124334.png">
+    </a>
+</div>
+
+### Installed application<br>
+<div>
+    <a href="./assets/Screenshot 2024-02-19 124718.png">
+      <img style="max-width:800px;" src="./assets/Screenshot 2024-02-19 124718.png">
+    </a>
+</div>
 
 
 ## Contributing
